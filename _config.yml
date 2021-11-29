@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GUO Wen"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "GUO Wen"
 description              : &description "Ph.D. candidate at INRIA"
