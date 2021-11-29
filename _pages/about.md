@@ -16,6 +16,49 @@ Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlearn/) (for
 
 
 ## Publications
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 0px;
+}
+
+.left {
+  align-items: top;
+  width: 30%;
+}
+
+.right {
+  align-items: top;
+  width: 68%;
+}
+
+.middle {
+  align-items: top;
+  width: 2%;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  align-items: top;
+  display: table;
+  clear: both;
+}
+
+.content figure {
+       width: 90%;
+       display: flex;
+       align-items: top;
+       overflow: hidden;
+       margin-left: auto!important;
+       margin-right: auto!important;
+      }
+</style>
+
 <!-- 2021 arXiv ExPI-->
 <article class="row">
   <div class="column left">
