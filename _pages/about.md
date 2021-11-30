@@ -88,6 +88,33 @@ Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlear) (forme
   </div>
 </article>
 
+<!-- 2021 wacv pi-net-->
+<article class="row">
+  <div class="column left">
+    <figure class="image">
+      <img src="../images/pi-net.png" width="100%">
+    </figure>
+  </div>
+  <div class="column middle">
+    <figure class="image">
+      <img src="../images/blank_placeholder.png" width="100%">
+    </figure>
+  </div>
+  <div class="column right">
+    <div class="content">
+      <p>
+        <b>PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation</b><br>
+	<b>Wen Guo</b>, Enric Corona, Francesc Moreno-Noguer, Xavier Alameda-Pineda<br>
+        <i>In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 2796-2806).</i><br>
+        <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Guo_PI-Net_Pose_Interacting_Network_for_Multi-Person_Monocular_3D_Pose_Estimation_WACV_2021_paper.pdf" target="_blank">[Paper]</a>
+        <a href="https://team.inria.fr/robotlearn/pi-net-pose-interacting-network-for-multi-person-monocular-3d-pose-estimation/" target="_blank">[Project page]</a>
+        <a href="https://github.com/GUO-W/PI-Net" target="_blank">[Code]</a>
+      </p>
+    </div>
+  </div>
+</article>
+
+
 ## Datasets
 <!-- 2021 dataset ExPI-->
 <article class="row">
