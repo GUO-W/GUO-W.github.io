@@ -64,7 +64,12 @@ Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlear) (forme
 
   <div class="column left">
     <figure class="image">
-      <img src="../images/xia.png" width="100%">
+      <img src="../images/xia_res_1.png" width="100%">
+    </figure>
+  </div>
+  <div class="column middle">
+    <figure class="image">
+      <img src="../images/xia_res_2.png" width="100%">
     </figure>
   </div>
 
