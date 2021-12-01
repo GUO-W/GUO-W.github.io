@@ -13,11 +13,11 @@ Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlear) (forme
 Before that I got bachelor and master degree from Beihang University, and double degree from CentraleSupélec.
 
 ## News  
-**07/2021** Present our ExPI dataset on poster session of PAISS summer school.
+**07/2021** Present our ExPI dataset on poster session of PAISS summer school.  
 
-**01/2021** Our paper "PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation" accepted at WACV2021.
+**01/2021** Our paper "PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation" accepted at WACV2021.  
 
-**10/2020** Present on ACM MM'20 Doctorial Symposium. 
+**10/2020** Present on ACM MM'20 Doctorial Symposium.   
 
 ## Publications
 <style>
@@ -83,7 +83,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
     <div class="content">
       <p>
         <b>Multi-Person Extreme Motion Prediction</b><br>
-        <b>Wen Guo</b>*, Xiaoyu BIE*, Xavier Alameda-Pineda, Francesc Moreno
+        <b>Wen Guo</b>*, Xiaoyu BIE*, Xavier Alameda-Pineda, Francesc Moreno<br>
         <i>arXiv preprint arXiv:2105.08825.</i><br>
         <a href="https://arxiv.org/abs/2105.08825" target="_blank">[Paper]</a>
         <a href="https://team.inria.fr/robotlearn/https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Project page]</a>
@@ -110,7 +110,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
     <div class="content">
       <p>
         <b>PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation</b><br>
-	<b>Wen Guo</b>, Enric Corona, Francesc Moreno-Noguer, Xavier Alameda-Pineda<br>
+	      <b>Wen Guo</b>, Enric Corona, Francesc Moreno-Noguer, Xavier Alameda-Pineda<br>
         <i>In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 2796-2806).</i><br>
         <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Guo_PI-Net_Pose_Interacting_Network_for_Multi-Person_Monocular_3D_Pose_Estimation_WACV_2021_paper.pdf" target="_blank">[Paper]</a>
         <a href="https://team.inria.fr/robotlearn/pi-net-pose-interacting-network-for-multi-person-monocular-3d-pose-estimation/" target="_blank">[Project page]</a>
