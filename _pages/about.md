@@ -12,8 +12,9 @@ Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlear) (forme
 
 
 ## News  
-** **  
-
+**07/2021** Present our ExPI dataset on poster session of PAISS summer school.
+**01/2021** Our paper "PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation" accepted at WACV2021.
+**10/2020** Present on ACM MM'20 Doctorial Symposium. 
 
 ## Publications
 <style>
@@ -137,6 +138,8 @@ Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlear) (forme
   </div>
 </article>
 
+## Services
+Reviever for ACM MM'20-21, IJCV, ICPR'21, WACV'21, ACM TOMM
 
 ## Contact
 wen[dot]guo[at]inria[dot]fr
