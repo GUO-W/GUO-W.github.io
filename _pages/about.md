@@ -10,6 +10,7 @@ redirect_from:
 
 Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlear) (former Perception team) supervised by [Xavier Alameda-Pineda](http://xavirema.eu/) and [Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/). 
 
+Before that I got bachelor and master degree from Beihang University, and double degree from CentraleSupélec.
 
 ## News  
 **07/2021** Present our ExPI dataset on poster session of PAISS summer school.
