@@ -14,10 +14,8 @@ Before that I got bachelor and master degree from Beihang University, and double
 
 ## News  
 **07/2021** Present our ExPI dataset on poster session of PAISS summer school.  
-
 **01/2021** Our paper "PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation" accepted at WACV2021.  
-
-**10/2020** Present on ACM MM'20 Doctorial Symposium.   
+**10/2020** Present on ACM MM'20 Doctoral Symposium.   
 
 ## Publications
 <style>
@@ -115,6 +113,30 @@ Here is a selection of recent publications, full list can be found on [Google Sc
         <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Guo_PI-Net_Pose_Interacting_Network_for_Multi-Person_Monocular_3D_Pose_Estimation_WACV_2021_paper.pdf" target="_blank">[Paper]</a>
         <a href="https://team.inria.fr/robotlearn/pi-net-pose-interacting-network-for-multi-person-monocular-3d-pose-estimation/" target="_blank">[Project page]</a>
         <a href="https://github.com/GUO-W/PI-Net" target="_blank">[Code]</a>
+      </p>
+    </div>
+  </div>
+</article>
+
+<!-- 2020 acm mm ds-->
+<article class="row">
+  <div class="column left">
+    <figure class="image">
+      <img src="../images/blank_placeholder.png" width="100%">
+    </figure>
+  </div>
+  <div class="column middle">
+    <figure class="image">
+      <img src="../images/blank_placeholder.png" width="100%">
+    </figure>
+  </div>
+  <div class="column right">
+    <div class="content">
+      <p>
+        <b>Multi-person Pose Estimation in Complex Physical Interactions</b><br>
+	      <b>Wen Guo</b><br>
+        <i>In Proceedings of the 28th ACM International Conference on Multimedia (MM ’20). Association for Computing Machinery, New York, NY, USA, 4752–4755. DOI:https://doi.org/10.1145/3394171.3416519 (DS) </i><br>
+        <a href="https://dl.acm.org/doi/10.1145/3394171.3416519" target="_blank">[Paper]</a>
       </p>
     </div>
   </div>
