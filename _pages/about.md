@@ -60,6 +60,8 @@ Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlear) (forme
       }
 </style>
 
+Here is a selection of recent publications, full list can be found on [Google Scholar](https://scholar.google.com/citations?user=1fkvaz4AAAAJ&hl=fr).
+
 <!-- 2021 arXiv ExPI-->
 <article class="row">
 
@@ -139,7 +141,7 @@ Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlear) (forme
 </article>
 
 ## Services
-Reviever for ACM MM'20-21, IJCV, ICPR'21, WACV'21, ACM TOMM
+Reviewing for ACM MM'20-21, IJCV, ICPR'21, WACV'21, ACM TOMM.
 
 ## Contact
 wen[dot]guo[at]inria[dot]fr
