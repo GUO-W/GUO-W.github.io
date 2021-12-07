@@ -84,7 +84,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
         <b>Wen Guo</b>*, Xiaoyu BIE*, Xavier Alameda-Pineda, Francesc Moreno<br>
         <i>arXiv preprint arXiv:2105.08825.</i><br>
         <a href="https://arxiv.org/abs/2105.08825" target="_blank">[Paper]</a>
-        <a href="https://team.inria.fr/robotlearn/https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Project page]</a>
+        <a href="https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Project page]</a>
         <a href="https://github.com/GUO-W/MultiMotion" target="_blank">[Code]</a> 
 	<a href="https://team.inria.fr/robotlearn/research/expi-dataset/" target="_blank">[Dataset]</a>
       </p>
