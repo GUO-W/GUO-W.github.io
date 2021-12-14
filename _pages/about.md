@@ -86,7 +86,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
         <a href="https://arxiv.org/abs/2105.08825" target="_blank">[Paper]</a>
         <a href="https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Project page]</a>
         <a href="https://github.com/GUO-W/MultiMotion" target="_blank">[Code]</a> 
-	<a href="https://team.inria.fr/robotlearn/research/expi-dataset/" target="_blank">[Dataset]</a>
+	<a href="https://zenodo.org/record/5578329#.YbjaLPHMK3J" target="_blank">[Dataset]</a>
       </p>
     </div>
   </div>
@@ -161,7 +161,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
     <div class="content">
       <p>
         <b>Extreme Pose Interaction (ExPI) Dataset</b><br>
-        <a href="https://team.inria.fr/robotlearn/research/expi-dataset/" target="_blank">[Dataset]</a>
+        <a href="https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Dataset]</a>
       </p>
     </div>
   </div>
