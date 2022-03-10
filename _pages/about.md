@@ -13,8 +13,8 @@ Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlear) (forme
 Before that I got bachelor and master degree from Beihang University, and double degree from CentraleSupélec.
 
 ## News  
-**03/2022** Our paper "Multi-Person Extreme Motion Prediction" accepted at CVPR2022.
-**10/2021** ExPI Dataset released.
+**03/2022** Our paper "Multi-Person Extreme Motion Prediction" accepted at CVPR2022.  
+**10/2021** ExPI Dataset released.  
 **07/2021** Present our ExPI dataset on poster session of PAISS summer school.  
 **01/2021** Our paper "PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation" accepted at WACV2021.  
 **10/2020** Present on ACM MM'20 Doctoral Symposium.   
