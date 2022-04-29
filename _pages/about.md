@@ -15,6 +15,7 @@ Before that I got bachelor and master degree from Beihang University, and double
 ## News  
 **03/2022** Our paper "Multi-Person Extreme Motion Prediction" accepted at CVPR2022.  
 **10/2021** [ExPI Dataset](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction) released.  
+**10/2021** We win [UVO Open-World Segmentation Challenge 2021](https://sites.google.com/view/unidentified-video-object/home) (2/2 awards), technical reports: [Track-1](https://arxiv.org/abs/2110.10239) and [Track-2](https://arxiv.org/abs/2110.11661).  
 **07/2021** Present on poster session of PAISS summer school.  
 **01/2021** Our paper "PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation" accepted at WACV2021.  
 **10/2020** Present on ACM MM'20 Doctoral Symposium.   
@@ -189,7 +190,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
       <p>
         <b>Extreme Pose Interaction (ExPI) Dataset</b><br>
         <a href="https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Dataset]</a><br>
-	It contains 115 sequences of exteme Lindy Hop poses, with 3D MoCap data (annotated from 20 mocap cameras and manual clean), multi-view images (68 views) and 3D shapes as texured meshes. Welcome to apply for downloading the <a href="https://zenodo.org/record/5578329#.Ymv4R_VBy3J" target="_blank">[Data]</a> to have a quick try.<br>
+	It contains 115 sequences of exteme Lindy Hop poses, with 3D MoCap data (annotated from 20 mocap cameras and manual clean), multi-view images (68 views) and 3D shapes as texured meshes. Welcome to download the <a href="https://zenodo.org/record/5578329#.Ymv4R_VBy3J" target="_blank">[Data]</a>.<br>
       </p>
     </div>
   </div>
