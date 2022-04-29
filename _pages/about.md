@@ -95,7 +95,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 
   <div class="column left">
     <figure class="image">
-      <img src="../images/xia_res.png" width="100%">
+      <img src="../images/2022-xia_res.png" width="100%">
     </figure>
   </div>
   <div class="column middle">
@@ -123,7 +123,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 <article class="row">
   <div class="column left">
     <figure class="image">
-      <img src="../images/pi-net.png" width="100%">
+      <img src="../images/2021-pi-net.png" width="100%">
     </figure>
   </div>
   <div class="column middle">
@@ -149,7 +149,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 <article class="row">
   <div class="column left">
     <figure class="image">
-      <img src="../images/blank_placeholder.png" width="100%">
+      <img src="../images/2021-ACMMM" width="100%">
     </figure>
   </div>
   <div class="column middle">
