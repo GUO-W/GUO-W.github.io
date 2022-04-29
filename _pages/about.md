@@ -83,7 +83,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
         <b>HiT-DVAE: Human Motion Generation via Hierarchical Transformer Dynamical VAE</b><br>
         Xiaoyu BIE*, <b>Wen Guo*</b>, Simon Leglaive, Laurent Girin, Francesc Moreno-Noguer, Xavier Alameda-Pineda<br>
         <i>arXiv preprint arXiv:2204.01565</i><br>
-        <a href="https://arxiv.org/abs/2204.01565" target="_blank">[arXiv]</a>
+        <a href="https://arxiv.org/abs/2204.01565" target="_blank">[paper]</a>
         [Code]
       </p>
     </div>
@@ -189,7 +189,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
       <p>
         <b>Extreme Pose Interaction (ExPI) Dataset</b><br>
         <a href="https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Dataset]</a><br>
-	It contains 115 sequences of exteme Lindy Hop poses, with 3D MoCap data (annotated from 20 mocap cameras and manual clean), multi-view images (68 views) and 3D shapes as texured meshes. Welcome to apply for downloading the [data](https://zenodo.org/record/5578329#.Ymv4R_VBy3J) to have a quick try.<br>
+	It contains 115 sequences of exteme Lindy Hop poses, with 3D MoCap data (annotated from 20 mocap cameras and manual clean), multi-view images (68 views) and 3D shapes as texured meshes. Welcome to apply for downloading the <a href="https://zenodo.org/record/5578329#.Ymv4R_VBy3J" target="_blank">[Data]</a> to have a quick try.<br>
       </p>
     </div>
   </div>
