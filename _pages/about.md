@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlear) (former Perception team) supervised by [Xavier Alameda-Pineda](http://xavirema.eu/) and [Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/). 
+Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlear) (former Perception team) and IRI, supervised by [Dr.Xavier Alameda-Pineda](http://xavirema.eu/) and [Dr.Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/). 
 
 Before that I got bachelor and master degree from Beihang University, and double degree from CentraleSupélec.
 
