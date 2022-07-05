@@ -66,6 +66,32 @@ Before that I got bachelor and master degree from Beihang University, and double
 
 Here is a selection of recent publications, full list can be found on [Google Scholar](https://scholar.google.com/citations?user=1fkvaz4AAAAJ&hl=fr).
 
+<!-- 2022 arXiv BackToMLP-->
+<article class="row">
+  <div class="column left">
+    <figure class="image">
+      <img src="../images/2022-BackToMLP.png" width="100%">
+    </figure>
+  </div>
+  <div class="column middle">
+    <figure class="image">
+      <img src="../images/blank_placeholder.png" width="100%">
+    </figure>
+  </div>
+  <div class="column right">
+    <div class="content">
+      <p>
+        <b>Back to MLP: A Simple Baseline for Human Motion Prediction</b><br>
+        <b>Wen Guo*</b>, Yuming Du*, Xi Shen, Vincent Lepetit, Xavier Alameda-Pineda, Francesc Moreno-Noguer<br>
+        <i>arXiv preprint arXiv:2207.01567</i><br>
+        <a href="https://arxiv.org/abs/2207.01567" target="_blank">[paper]</a>
+        <a href="https://dulucas.github.io/Homepage/sbmotion/" target="_blank">[project page]</a>
+        <a href="https://github.com/dulucas/siMLPe" target="_blank">[Code]</a>
+      </p>
+    </div>
+  </div>
+</article>
+
 <!-- 2022 arXiv HiT DVAE-->
 <article class="row">
   <div class="column left">
