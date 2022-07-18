@@ -85,7 +85,6 @@ Here is a selection of recent publications, full list can be found on [Google Sc
         <b>Wen Guo*</b>, Yuming Du*, Xi Shen, Vincent Lepetit, Xavier Alameda-Pineda, Francesc Moreno-Noguer<br>
         <i>arXiv preprint arXiv:2207.01567</i><br>
         <a href="https://arxiv.org/abs/2207.01567" target="_blank">[paper]</a>
-        <a href="https://dulucas.github.io/Homepage/sbmotion/" target="_blank">[project page]</a>
         <a href="https://github.com/dulucas/siMLPe" target="_blank">[Code]</a>
       </p>
     </div>
