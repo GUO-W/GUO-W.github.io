@@ -222,7 +222,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 </article>
 
 ## Services
-Reviewing for ACM MM'20-21, IJCV, ICPR'21, WACV'21, ACM TOMM.
+Reviewing for ECCV'22, ACM MM'20-22, ICPR'21, WACV'21-22, ACM TOMM, IJCV.
 
 ## Contact
 wen[dot]guo[at]inria[dot]fr
