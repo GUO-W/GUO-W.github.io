@@ -66,7 +66,7 @@ Before that I got bachelor and master degree from Beihang University, and double
 
 Here is a selection of recent publications, full list can be found on [Google Scholar](https://scholar.google.com/citations?user=1fkvaz4AAAAJ&hl=fr).
 
-<!-- 2022 arXiv BackToMLP-->
+<!-- 2022 wacv  BackToMLP-->
 <article class="row">
   <div class="column left">
     <figure class="image">
@@ -83,7 +83,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
       <p>
         <b>Back to MLP: A Simple Baseline for Human Motion Prediction</b><br>
         <b>Wen Guo*</b>, Yuming Du*, Xi Shen, Vincent Lepetit, Xavier Alameda-Pineda, Francesc Moreno-Noguer<br>
-        <i>arXiv preprint arXiv:2207.01567</i><br>
+        <i>WACV2023.</i><br>
         <a href="https://arxiv.org/abs/2207.01567" target="_blank">[paper]</a>
         <a href="https://github.com/dulucas/siMLPe" target="_blank">[Code]</a>
       </p>
@@ -135,7 +135,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
       <p>
         <b>Multi-Person Extreme Motion Prediction</b><br>
         <b>Wen Guo</b>*, Xiaoyu BIE*, Xavier Alameda-Pineda, Francesc Moreno<br>
-        <i>CVPR2022</i><br>
+        <i>CVPR2022.</i><br>
         <a href="https://arxiv.org/abs/2105.08825" target="_blank">[Paper]</a>
         <a href="https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Project page]</a>
         <a href="https://github.com/GUO-W/MultiMotion" target="_blank">[Code]</a> 
