@@ -10,7 +10,7 @@ redirect_from:
 
 Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlear) (former Perception team) and IRI, supervised by [Dr.Xavier Alameda-Pineda](http://xavirema.eu/) and [Dr.Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/). 
 
-Before that I got bachelor and master degree from Beihang University, and double degree from CentraleSupélec.
+Before that I got bachelor and master degree from Beihang University, and a double master degree from CentraleSupélec.
 
 ## News  
 **03/2022** Our paper "Multi-Person Extreme Motion Prediction" accepted at CVPR2022.  
@@ -83,7 +83,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
       <p>
         <b>Back to MLP: A Simple Baseline for Human Motion Prediction</b><br>
         <b>Wen Guo*</b>, Yuming Du*, Xi Shen, Vincent Lepetit, Xavier Alameda-Pineda, Francesc Moreno-Noguer<br>
-        <i>WACV2023.</i><br>
+        <i>WACV 2023.</i><br>
         <a href="https://arxiv.org/abs/2207.01567" target="_blank">[paper]</a>
         <a href="https://github.com/dulucas/siMLPe" target="_blank">[Code]</a>
       </p>
@@ -135,7 +135,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
       <p>
         <b>Multi-Person Extreme Motion Prediction</b><br>
         <b>Wen Guo</b>*, Xiaoyu BIE*, Xavier Alameda-Pineda, Francesc Moreno<br>
-        <i>CVPR2022.</i><br>
+        <i>CVPR 2022.</i><br>
         <a href="https://arxiv.org/abs/2105.08825" target="_blank">[Paper]</a>
         <a href="https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Project page]</a>
         <a href="https://github.com/GUO-W/MultiMotion" target="_blank">[Code]</a> 
@@ -162,7 +162,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
       <p>
         <b>PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation</b><br>
 	      <b>Wen Guo</b>, Enric Corona, Francesc Moreno-Noguer, Xavier Alameda-Pineda<br>
-        <i>WACV2021.</i><br>
+        <i>WACV 2021.</i><br>
         <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Guo_PI-Net_Pose_Interacting_Network_for_Multi-Person_Monocular_3D_Pose_Estimation_WACV_2021_paper.pdf" target="_blank">[Paper]</a>
         <a href="https://team.inria.fr/robotlearn/pi-net-pose-interacting-network-for-multi-person-monocular-3d-pose-estimation/" target="_blank">[Project page]</a>
         <a href="https://github.com/GUO-W/PI-Net" target="_blank">[Code]</a>
@@ -188,7 +188,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
       <p>
         <b>Multi-person Pose Estimation in Complex Physical Interactions</b><br>
 	      <b>Wen Guo</b><br>
-        <i>In Proceedings of the 28th ACM International Conference on Multimedia (MM ’20). Association for Computing Machinery, New York, NY, USA, 4752–4755. DOI:https://doi.org/10.1145/3394171.3416519 (DS) </i><br>
+        <i>ACM MM 2020 (DS).</i><br>
         <a href="https://dl.acm.org/doi/10.1145/3394171.3416519" target="_blank">[Paper]</a>
       </p>
     </div>
