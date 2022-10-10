@@ -13,7 +13,7 @@ Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlear) (forme
 Before that I got bachelor and master degree from Beihang University, and a double master degree from CentraleSupélec.
 
 ## News  
-**08/2022** Our paper "Back to MLP: A Simple Baseline for Human Motion Prediction" accepted at WACV2023 first track.
+**08/2022** Our paper "Back to MLP: A Simple Baseline for Human Motion Prediction" accepted at WACV2023 first track.  
 **03/2022** Our paper "Multi-Person Extreme Motion Prediction" accepted at CVPR2022.  
 **10/2021** [ExPI Dataset](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction) released.  
 **10/2021** We win 1st place of [UVO Open-World Segmentation Challenge 2021](https://sites.google.com/view/unidentified-video-object/home), ICCV2021 (2/2 tracks), technical reports: [Track-1](https://arxiv.org/abs/2110.10239) and [Track-2](https://arxiv.org/abs/2110.11661).  
