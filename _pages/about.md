@@ -175,35 +175,6 @@ Here is a selection of recent publications, full list can be found on [Google Sc
   </div>
 </article>
 
-<!-- 2022 cvpr ExPI-->
-<article class="row">
-
-  <div class="column left">
-    <figure class="image">
-      <img src="../images/2022-xia-res.png" width="100%">
-    </figure>
-  </div>
-  <div class="column middle">
-    <figure class="image">
-      <img src="../images/blank_placeholder.png" width="100%">
-    </figure>
-  </div>
-
-  <div class="column right">
-    <div class="content">
-      <p>
-        <b>Multi-Person Extreme Motion Prediction</b><br>
-        <b>Wen Guo</b>*, Xiaoyu BIE*, Xavier Alameda-Pineda, Francesc Moreno<br>
-        <i>CVPR 2022.</i><br>
-        <a href="https://arxiv.org/abs/2105.08825" target="_blank">[Paper]</a>
-        <a href="https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Project page]</a>
-        <a href="https://github.com/GUO-W/MultiMotion" target="_blank">[Code]</a> 
-	<a href="https://zenodo.org/record/5578329#.YbjaLPHMK3J" target="_blank">[Dataset]</a>
-      </p>
-    </div>
-  </div>
-</article>
-
 <!-- 2021 wacv pi-net-->
 <article class="row">
   <div class="column left">
