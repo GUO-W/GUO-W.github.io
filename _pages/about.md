@@ -244,7 +244,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
     <div class="content">
       <p>
         <b>Extreme Pose Interaction (ExPI) Dataset</b><br>
-        <a href="https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Dataset webpage]</a><br> 
+        <a href="https://team.inria.fr/robotlearn/research/expi-dataset/" target="_blank">[Dataset webpage]</a><br> 
         Full dataset (mocap, mesh, video) could be downloaded at <a href="https://zenodo.org/record/5578329#.Ymv4R_VBy3J" target="_blank">[Data]</a>.<br>
       </p>
     </div>
