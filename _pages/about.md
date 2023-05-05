@@ -244,8 +244,8 @@ Here is a selection of recent publications, full list can be found on [Google Sc
     <div class="content">
       <p>
         <b>Extreme Pose Interaction (ExPI) Dataset</b><br>
-        <a href="https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Dataset]</a><br>
-	It contains 115 sequences of exteme Lindy Hop poses, with 3D MoCap data (annotated from 20 mocap cameras and manual clean), multi-view images (68 views) and 3D shapes as texured meshes. Welcome to download the <a href="https://zenodo.org/record/5578329#.Ymv4R_VBy3J" target="_blank">[Data]</a>.<br>
+        <a href="https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Dataset webpage]</a><br> 
+        Full dataset (mocap, mesh, video) could be download at <a href="https://zenodo.org/record/5578329#.Ymv4R_VBy3J" target="_blank">[Data]</a>.<br>
       </p>
     </div>
   </div>
