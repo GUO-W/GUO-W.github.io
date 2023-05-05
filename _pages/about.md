@@ -118,6 +118,63 @@ Here is a selection of recent publications, full list can be found on [Google Sc
   </div>
 </article>
 
+<!-- 2022 uvo-->
+<article class="row">
+ 
+  <div class="column left">
+    <figure class="image">
+      <img src="../images/2022-uvo.png" width="100%">
+    </figure>
+  </div>
+  <div class="column middle">
+    <figure class="image">
+      <img src="../images/blank_placeholder.png" width="100%">
+    </figure>
+  </div>
+ 
+  <div class="column right">
+    <div class="content">
+      <p> 
+        <b>1st Place UVO Open-World Segmentation Challenge Reports</b><br>
+        Yuming Du, <b>Wen Guo*</b>, Yang Xiao, Vincent Lepetit<br>
+        <i>Tech Reports of ICCV 2021 UVO Challenge.</i><br>
+        <a href="https://arxiv.org/abs/2110.10239" target="_blank">[Image-track]</a>
+		<a href="https://arxiv.org/abs/2110.11661" target="_blank">[Video-track]</a>
+        <a href="https://github.com/dulucas/UVO_Challenge" target="_blank">[Code]</a> 
+      </p>
+    </div>
+  </div>
+</article>
+
+<!-- 2022 cvpr ExPI-->
+<article class="row">
+
+  <div class="column left">
+    <figure class="image">
+      <img src="../images/2022-xia-res.png" width="100%">
+    </figure>
+  </div>
+  <div class="column middle">
+    <figure class="image">
+      <img src="../images/blank_placeholder.png" width="100%">
+    </figure>
+  </div>
+
+  <div class="column right">
+    <div class="content">
+      <p>
+        <b>Multi-Person Extreme Motion Prediction</b><br>
+        <b>Wen Guo</b>*, Xiaoyu BIE*, Xavier Alameda-Pineda, Francesc Moreno<br>
+        <i>CVPR 2022.</i><br>
+        <a href="https://arxiv.org/abs/2105.08825" target="_blank">[Paper]</a>
+        <a href="https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction" target="_blank">[Project page]</a>
+        <a href="https://github.com/GUO-W/MultiMotion" target="_blank">[Code]</a> 
+	<a href="https://zenodo.org/record/5578329#.YbjaLPHMK3J" target="_blank">[Dataset]</a>
+      </p>
+    </div>
+  </div>
+</article>
+
 <!-- 2022 cvpr ExPI-->
 <article class="row">
 
@@ -224,7 +281,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 </article>
 
 ## Services
-Reviewing for ECCV'22, ACM MM'20-22, ICPR'21, WACV'21-22, ACM TOMM, IJCV.
+Reviewing for CVPR, ECCV, ACM MM, ICPR, WACV, ACM TOMM, IJCV, TPAMI.
 
 ## Contact
 wen[dot]guo[at]inria[dot]fr
