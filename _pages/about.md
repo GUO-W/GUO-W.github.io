@@ -136,7 +136,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
     <div class="content">
       <p> 
         <b>1st Place UVO Open-World Segmentation Challenge Reports</b><br>
-        Yuming Du, <b>Wen Guo*</b>, Yang Xiao, Vincent Lepetit<br>
+        Yuming Du, <b>Wen Guo</b>, Yang Xiao, Vincent Lepetit<br>
         <i>Tech Reports of ICCV 2021 UVO Challenge.</i><br>
         <a href="https://arxiv.org/abs/2110.10239" target="_blank">[Image-track]</a>
 		<a href="https://arxiv.org/abs/2110.11661" target="_blank">[Video-track]</a>
