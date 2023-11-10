@@ -69,6 +69,31 @@ Before that I got bachelor and master degree from Beihang University, and a doub
 
 Here is a selection of recent publications, full list can be found on [Google Scholar](https://scholar.google.com/citations?user=1fkvaz4AAAAJ&hl=fr).
 
+<!-- 2023 iccv livelyspeaker-->
+<article class="row">
+  <div class="column left">
+    <figure class="image">
+      <img src="../images/2023-livelyspeaker.gif" width="100%">
+    </figure>
+  </div>
+  <div class="column middle">
+    <figure class="image">
+      <img src="../images/blank_placeholder.png" width="100%">
+    </figure>
+  </div>
+  <div class="column right">
+    <div class="content">
+      <p>
+        <b>LivelySpeaker: Towards Semantic-aware Co-speech Gesture Generation</b><br>
+        Yihao Zhi*, Xiaodong Cun*, Xuelin Chen, Xi Shen, <b>Wen Guo<b>, Shaoli Huang, Shenghua Gao<br>
+        <i>ICCV 2023.</i><be>
+	<a href="https://arxiv.org/abs/2309.09294" target="_blank">[paper]</a>
+        <a href="https://github.com/zyhbili/LivelySpeaker" target="_blank">[Code]</a>
+      </p>
+    </div>
+  </div>
+</article>
+
 <!-- 2022 wacv  BackToMLP-->
 <article class="row">
   <div class="column left">
