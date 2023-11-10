@@ -13,6 +13,7 @@ Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlearn) (form
 Before that I got bachelor and master degree from Beihang University, and a double master degree from CentraleSupélec.
 
 ## News  
+**07/2023** Our paper "LivelySpeaker" is accepted by ICCV 2023.
 **12/2022** Given a talk at DLBCN, Barcelona.  
 **08/2022** Our paper "Back to MLP: A Simple Baseline for Human Motion Prediction" accepted at WACV2023 first track.  
 **03/2022** Our paper "Multi-Person Extreme Motion Prediction" accepted at CVPR2022.  
