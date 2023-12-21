@@ -282,6 +282,6 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 Reviewing for CVPR, ECCV, ACM MM, ICPR, WACV, ACM TOMM, IJCV, TPAMI.
 
 ## Contact
-wen[dot]guo[at]inria[dot]fr
+guowen0903[at]hotmail[dot]com
 
 
