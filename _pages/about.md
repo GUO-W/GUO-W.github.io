@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. student at INRIA [RobotLearn team](https://team.inria.fr/robotlearn) (former Perception team) and IRI, supervised by [Prof.Xavier Alameda-Pineda](http://xavirema.eu/) and [Prof.Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/). 
+I’m currently a Postdoc researcher at ETHzurich, working with Dr. Diego Paez-​Granados and Prof. Robert Riener in SCAI lab.
 
-Before that I got bachelor and master degree from Beihang University, and a double master degree from CentraleSupélec.
+I obtained my Ph.D from INRIA [RobotLearn team](https://team.inria.fr/robotlearn) (former Perception team) and IRI, supervised by [Prof. Xavier Alameda-Pineda](http://xavirema.eu/) and [Prof. Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/). Before that I got bachelor and master degree from Beihang University, and a double master degree from CentraleSupélec.
 
 ## News  
 **07/2023** Our paper "LivelySpeaker" is accepted by ICCV 2023.  
@@ -282,6 +282,6 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 Reviewing for CVPR, ECCV, ACM MM, ICPR, WACV, ACM TOMM, IJCV, TPAMI.
 
 ## Contact
-guowen0903[at]hotmail[dot]com
+wen.guo[at]hest[dot]ethz[dot]ch
 
 
