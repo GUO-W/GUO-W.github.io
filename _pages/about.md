@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a Postdoc researcher at ETHzurich, working with Dr. Diego Paez-​Granados and Prof. Robert Riener in SCAI lab.
+I’m currently a Postdoc researcher at ETHzurich, working with Dr. Diego Paez-​Granados and Prof. Robert Riener.
 
 I obtained my Ph.D from INRIA [RobotLearn team](https://team.inria.fr/robotlearn) (former Perception team) and IRI, supervised by [Prof. Xavier Alameda-Pineda](http://xavirema.eu/) and [Prof. Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/). Before that I got bachelor and master degree from Beihang University, and a double master degree from CentraleSupélec.
 
