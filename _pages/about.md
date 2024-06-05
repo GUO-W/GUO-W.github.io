@@ -10,7 +10,7 @@ redirect_from:
 
 I’m currently a Postdoc researcher at ETH Zurich, working with [Dr. Diego Paez-​Granados](https://sms.hest.ethz.ch/the-group/team/diego_paez_granados.html) and [Prof. Robert Riener](https://sms.hest.ethz.ch/the-group/team/robert-riener.html).
 
-I obtained my Ph.D from INRIA [RobotLearn team](https://team.inria.fr/robotlearn) (former Perception team) and IRI, supervised by [Prof. Xavier Alameda-Pineda](http://xavirema.eu/) and [Prof. Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/). Before that I got bachelor and master degree from Beihang University, and a double master degree from CentraleSupélec.
+I obtained my Ph.D from INRIA, UGA, France, supervised by [Prof. Xavier Alameda-Pineda](http://xavirema.eu/) and [Prof. Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/). Before that I got bachelor and master degree from Beihang University, and a double master degree from CentraleSupélec.
 
 ## News  
 **07/2023** Our paper "LivelySpeaker" is accepted by ICCV 2023.  
