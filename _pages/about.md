@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a Postdoc researcher at ETHzurich, working with Dr. Diego Paez-​Granados and Prof. Robert Riener.
+I’m currently a Postdoc researcher at ETH Zurich, working with [Dr. Diego Paez-​Granados](https://sms.hest.ethz.ch/the-group/team/diego_paez_granados.html) and [Prof. Robert Riener](https://sms.hest.ethz.ch/the-group/team/robert-riener.html).
 
 I obtained my Ph.D from INRIA [RobotLearn team](https://team.inria.fr/robotlearn) (former Perception team) and IRI, supervised by [Prof. Xavier Alameda-Pineda](http://xavirema.eu/) and [Prof. Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/). Before that I got bachelor and master degree from Beihang University, and a double master degree from CentraleSupélec.
 
