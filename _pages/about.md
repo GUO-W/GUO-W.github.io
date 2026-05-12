@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a Postdoc researcher at ETH Zurich, working with [Dr. Diego Paez-​Granados](https://sms.hest.ethz.ch/the-group/team/diego_paez_granados.html) and [Prof. Robert Riener](https://sms.hest.ethz.ch/the-group/team.html) on AI for healthcare, with a focus on human motion and multi-modality clinical data.
+I’m currently a Postdoc researcher at ETH Zurich on AI for healthcare, with a focus on human motion and multi-modality clinical data.
 
 I obtained my Ph.D from INRIA, Grenoble, France, supervised by [Prof. Xavier Alameda-Pineda](http://xavirema.eu/) and [Prof. Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/). Before that I got bachelor and master degree from Beihang University, and a double master degree from CentraleSupélec.
 
@@ -282,6 +282,6 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 Reviewing for CVPR, ECCV, ACM MM, ICPR, WACV, ACM TOMM, IJCV, TPAMI.
 
 ## Contact
-wen.guo[at]hest[dot]ethz[dot]ch
+guowen0903[at]hotmail[dot]com
 
 
